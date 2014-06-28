@@ -6,7 +6,7 @@ meghívottak vagyunk.
 2
 00:00:01,982 --> 00:00:04,461
 - Név? - Marcus.
-- Marcus ki?
+- Milyen Marcus?
 
 3
 00:00:04,462 --> 00:00:07,062
@@ -34,18 +34,18 @@ Elég! Nem hivatalosak,
 
 8
 00:00:19,356 --> 00:00:22,155
-Tíz dénár? Akkor is, ha
+Tíz dénár?! És ha
 egyikünk csak rabszolga...?
 
 9
 00:00:22,156 --> 00:00:24,675
-- Akkor hagyják idekint.
+- Akkor őt hagyják kint.
 - Kint hagyhatunk?
 
 10
 00:00:24,676 --> 00:00:27,562
 - Nem értékelném.
-- Nem értékelné, látja.
+- Na tessék, nem értékelné.
 
 11
 00:00:27,562 --> 00:00:31,168
@@ -59,8 +59,8 @@ muszáj lenne bejutnunk.
 
 13
 00:00:33,792 --> 00:00:36,586
-Nézzék, uraim, kétlem, hogy
-a hely a magukfajtának való.
+Nézzék, uraim, a hely
+nem a magukfajtának való.
 
 14
 00:00:36,586 --> 00:00:38,616
@@ -145,7 +145,7 @@ Nem maradunk itt.
 
 32
 00:01:39,562 --> 00:01:42,699
-- Jaj ne, tényleg? - Tessék?
+- Ne, tényleg? - Tessék?
 Miért ne maradnátok?
 
 33
@@ -155,12 +155,12 @@ Cynth. - Az hol van?
 
 34
 00:01:45,100 --> 00:01:47,392
-- Britannia. - Ahol sárból
-épített kunyhókban laktunk.
+- Britanniában. - Ahol sárból
+épült kunyhóban laktunk.
 
 35
 00:01:47,392 --> 00:01:50,221
-- Mi mocskosabb a sárnál?
+- Mi lehet mocskosabb annál?
 - Kutyapiszok a küszöbön.
 
 36
@@ -169,7 +169,7 @@ Fúj. Az tényleg undorító.
 
 37
 00:01:52,501 --> 00:01:55,619
-Na igen, viszont a kutya, ami
+Viszont a kutya, ami
 otthagyta, nagyon aranyos...
 
 38
@@ -204,12 +204,12 @@ te idevalósi vagy?
 44
 00:02:12,260 --> 00:02:14,539
 Mondhatjuk.
-Kb. hat hete vagyok itt.
+Lassan hat hete vagyok itt.
 
 45
 00:02:14,540 --> 00:02:17,701
-- Biztos, hogy ez jó ötlet?
-- Nagyszerű ötlet. Imádni fogjátok itt.
+- Jó ötlet ez? - Nagyszerű
+ötlet. Imádni fogjátok itt.
 
 46
 00:02:23,021 --> 00:02:25,299
@@ -218,7 +218,7 @@ Kb. hat hete vagyok itt.
 
 47
 00:02:25,300 --> 00:02:27,981
-- Mi tartott ennyi ideig? - Segítettem
+- Mi tartott eddig? - Segítettem
 költözni az új szomszédoknak.
 
 48
@@ -254,7 +254,7 @@ Ha be akarunk vágódni, akkor...
 54
 00:02:46,860 --> 00:02:49,578
 - Kutyaszart kell szedni?
-- Ebben az esetben, igen.
+- Igen, ebben az esetben.
 
 55
 00:02:49,578 --> 00:02:52,221
@@ -320,7 +320,7 @@ Mennyibe kerül?
 68
 00:03:23,968 --> 00:03:27,122
 Meg... megnyugtatóan drága,
-de tudunk rá spórolni.
+de spórolhatnánk rá.
 
 69
 00:03:27,212 --> 00:03:30,816
@@ -387,7 +387,7 @@ fel csajokat, Aurelius?
 
 82
 00:04:09,730 --> 00:04:12,053
-Bárhol, cimbora. Bárban,
+Akárhol, cimbora. Bárban,
 kiállításon, vagy a templomban.
 
 83
@@ -417,7 +417,7 @@ imádják a keblemet.
 
 88
 00:04:25,408 --> 00:04:28,531
-Ezt örömmel hallom.
+Örömmel hallom.
 Hogy halad a munka, fiúk?
 
 89
@@ -428,7 +428,7 @@ Hogy halad a munka, fiúk?
 90
 00:04:31,637 --> 00:04:34,730
 - Nahát! Még több munka?
-- Másoló, a pénteki ülésre..
+- Másoló, a pénteki tárgyalásra..
 
 91
 00:04:34,730 --> 00:04:37,491
@@ -447,11 +447,11 @@ nem csinálnám újra.
 94
 00:04:41,813 --> 00:04:44,371
 Ha lehetne, nem kérném,
-csak a másolatok foltosak lettek.
+csakhogy a másolatok foltosak.
 
 95
 00:04:44,372 --> 00:04:47,410
-Mintha könnyesek lettek volna.
+Mintha könnyesek lennének.
 
 96
 00:04:47,411 --> 00:04:49,877
@@ -465,7 +465,7 @@ Mintha könnyesek lettek volna.
 
 98
 00:04:52,530 --> 00:04:55,691
-Ezek meg a másolatok, tépő.
+Tessék, a másolatok, tépő.
 Legyenek meg holnapig.
 
 99
@@ -500,7 +500,7 @@ be lehet csukni idebent.
 
 105
 00:05:25,632 --> 00:05:27,744
-- Lerí rólad.
+- Le is rí rólad.
 - Pénzügyi gondok.
 
 106
@@ -515,8 +515,8 @@ az élelmiszer között.
 
 108
 00:05:32,770 --> 00:05:35,131
-Egyszerű.
 Spórolj a kaján!
+Egyszerű!
 
 109
 00:05:35,132 --> 00:05:36,850
@@ -525,11 +525,11 @@ Jó lenne.
 110
 00:05:36,851 --> 00:05:39,477
 Tud valami helyet,
-ahol olcsó a kaja?
+ahol olcsó kaját kapni?
 
 111
 00:05:39,477 --> 00:05:42,891
-- Milyen olcsóról lenne szó?
+- Mennyire olcsóról lenne szó?
 - Mondjuk... ingyen.
 
 112
@@ -566,8 +566,8 @@ majd érted, cimbora.
 
 119
 00:06:06,131 --> 00:06:08,448
-Aha! Minden férfinek
-kötelező hoznia törölközőt..
+Aha! Férfiaknak kötelező
+hozniuk saját törölközőt..
 
 120
 00:06:08,448 --> 00:06:10,611
@@ -576,7 +576,7 @@ kötelező hoznia törölközőt..
 
 121
 00:06:14,051 --> 00:06:16,661
-- Mi van a britekkel?
+- Na és a britek?
 - Grumio, ne!
 
 122
@@ -602,7 +602,7 @@ A britek! Hívd el
 126
 00:06:26,291 --> 00:06:29,289
 Nos, egyikük rabszolga. Bocsi.
-A másikat pedig kedvelem.
+A másikat meg kedvelem.
 
 127
 00:06:29,290 --> 00:06:32,609
@@ -621,7 +621,7 @@ felszabadult fiúkat szeretik,
 
 130
 00:06:39,744 --> 00:06:42,858
-- ..és nem a prűd dumagépeket.
+- ..nem a prűd dumagépeket.
 - Nem vagyok prűd.
 
 131
@@ -645,7 +645,7 @@ szintre emelni a kapcsolatot, haver.
 
 135
 00:06:56,056 --> 00:06:57,815
-Talán ki is hagyva párat.
+Kihagyva párat.
 
 136
 00:06:57,816 --> 00:07:01,375
@@ -683,11 +683,11 @@ Jól van na, elhívom.
 143
 00:07:18,977 --> 00:07:21,535
 Na és veled mi lesz?
-Kit viszel magaddal?
+Te kivel mész?
 
 144
 00:07:21,536 --> 00:07:25,290
-Ne törődj velem, barátom. Lányok
+Azt csak hagyd rám, öreg. Lányok
 potyognak a valagamból is.
 
 145
@@ -701,7 +701,7 @@ női tagjait egy orgiára péntek este.
 
 147
 00:07:35,618 --> 00:07:38,176
-Nem, ez nem mehet egy értesítőbe.
+Ez nem mehet egy értesítőbe.
 
 148
 00:07:38,177 --> 00:07:40,616
@@ -719,7 +719,7 @@ inkább irodai hírekre szolgálnak.
 
 151
 00:07:46,417 --> 00:07:50,136
-Tűzriadó próbákra, támogatott
+Tűzriadó próbákra, szponzorált
 fürdőzésekre, és, nos, nem erre.
 
 152
@@ -730,7 +730,7 @@ Szórakoztató Egyesület üzenné?
 153
 00:07:53,096 --> 00:07:55,615
 - Nincsen szórakoztató egyesület.
-- Most alapítottam egyet.
+- Most alapítottam meg.
 
 154
 00:07:55,616 --> 00:07:58,657
@@ -772,12 +772,12 @@ miatt a tortasütés elmarad.
 
 162
 00:08:19,697 --> 00:08:22,737
-Ugye. Engem is feldúlt. Szerencsére
+Ugye? Engem is feldúlt. Szerencsére
 van egy harmadik értesítő.
 
 163
 00:08:22,738 --> 00:08:27,416
-A tortasütés helyett
+Tortasütés helyett
 a program egy orgia.
 
 164
@@ -788,7 +788,7 @@ jelentkezését várjuk.
 165
 00:08:30,137 --> 00:08:32,617
 - Még valami?
-- Saját törölközőt kell hozni.
+- Kötelező a saját törölköző.
 
 166
 00:08:32,618 --> 00:08:34,897
@@ -796,7 +796,7 @@ jelentkezését várjuk.
 
 167
 00:08:35,897 --> 00:08:38,297
-(Saját törölközőt.)
+(Saját törölköző.)
 
 168
 00:08:43,177 --> 00:08:45,496
@@ -821,8 +821,8 @@ Nem is voltunk még tömegben.
 
 173
 00:08:55,976 --> 00:08:58,135
-Három is lehet
-tömeg, nemde?
+A három is lehet
+már tömeg, nemde?
 
 174
 00:08:58,136 --> 00:09:01,013
@@ -913,7 +913,7 @@ falnak dőlve vizelnek éjszakánként.
 192
 00:09:44,704 --> 00:09:48,015
 - Csodás. Még egy rög.
-- Nem, ez jó. Folytasd.
+- Nem, ez jó. Mesélj még.
 
 193
 00:09:48,016 --> 00:09:52,135
@@ -932,7 +932,7 @@ kedved eljönni. Nélküled.
 
 196
 00:09:59,337 --> 00:10:04,136
-- Klassziko. - Figyelmeztetlek...
+- Szupcsijó. - Figyelmeztetlek...
 ez egy... - Micsoda?
 
 197
@@ -945,11 +945,11 @@ Ez egy or...
 
 199
 00:10:10,257 --> 00:10:12,256
-Rendben, klassziko.
+Rendben, szupcsijó.
 
 200
 00:10:12,257 --> 00:10:14,976
-Klassziko. Menjünk is tovább.
+Szupcsijó. Menjünk is tovább.
 
 201
 00:10:14,977 --> 00:10:16,976
@@ -966,8 +966,8 @@ Napot.
 
 204
 00:10:38,762 --> 00:10:42,136
-- Mi van nálad?
-- Hát, szemét.
+- Mit hoztál?
+- Hát, szemetet.
 
 205
 00:10:42,198 --> 00:10:44,717
@@ -1019,7 +1019,7 @@ rabszolgája. - Grumio, Marcusé.
 215
 00:11:15,882 --> 00:11:18,442
 Tudhattam volna.
-Sokmindent megmagyaráz.
+Már minden világos.
 
 216
 00:11:18,442 --> 00:11:22,048
@@ -1033,17 +1033,17 @@ Engem se. Bár nem zavar.
 218
 00:11:24,325 --> 00:11:27,564
 Aludni szeretek evés után,
-de gondolom, egy orgián..
+és rájöttem, hogy egy orgián..
 
 219
 00:11:27,565 --> 00:11:30,804
-..ébren tartja az embert,
-amikor próbálnak megdugni.
+..ébren tartja az embert
+az állandó dugás.
 
 220
 00:11:30,805 --> 00:11:33,806
-- Hogy mit mondtál?
-- Bocsánat, szerelmeskedni.
+- Mit mondtál?
+- Bocsánat, szeretkezés.
 
 221
 00:11:33,807 --> 00:11:36,046
@@ -1217,7 +1217,7 @@ Foglak és eladlak!
 
 257
 00:13:45,927 --> 00:13:48,446
-Senki nem vesz meg.
+Nem venne meg senki.
 
 258
 00:13:51,526 --> 00:13:53,804
@@ -1225,12 +1225,12 @@ Látod, mire vetemedem miattad?
 
 259
 00:13:53,805 --> 00:13:55,776
-Nem baj, megoldottam.
+Nem baj, megfejtettem.
 
 260
 00:13:56,406 --> 00:13:59,326
 - Lehet, nem is bánja.
-- Persze, hogy bánja.
+- Már hogy ne bánná!
 
 261
 00:13:59,327 --> 00:14:01,926
@@ -1266,13 +1266,13 @@ Te maradj ki ebből, légyszi.
 
 268
 00:14:22,293 --> 00:14:27,413
-Nézd, az orgia egy, tudod...
+Nézd, az orgia egy, izé...
 hagyományos római időtöltés.
 
 269
 00:14:27,413 --> 00:14:30,524
 - Akkor miért nincs az útikönyvben?
-- Az csak turista cucc.
+- Az csak a turista cucc.
 
 270
 00:14:30,525 --> 00:14:33,604
@@ -1282,12 +1282,12 @@ hagyományos római időtöltés.
 271
 00:14:33,605 --> 00:14:36,044
 - Helyi normális emberek.
-- Vettem egy új ruhát..
+- Egy nudista estére..
 
 272
 00:14:36,045 --> 00:14:39,402
-- ..egy nudista estére.
-- Hordhatod az odaúton.
+- ..vettem új ruhát!
+- Hordhatod odafelé.
 
 273
 00:14:39,402 --> 00:14:43,166
@@ -1306,7 +1306,7 @@ sem voltál korábban.
 
 276
 00:14:47,085 --> 00:14:50,346
-Ez egy modern város, oké?
+Tudod, ez egy modern város.
 Ha nem tudsz vele megbarátkozni,
 
 277
@@ -1350,15 +1350,15 @@ A Test Követői.
 285
 00:15:16,485 --> 00:15:19,606
 Hát, nem kezdő szint.
-Inkább specialistáknak való.
+Inkább hozzáértőknek való.
 
 286
 00:15:19,607 --> 00:15:21,765
-Specialistáknak?
+Hozzáértőknek?
 
 287
 00:15:21,766 --> 00:15:24,886
-- Akik specializálódnak.
+- Akik értenek hozzá.
 - Végülis logikus.
 
 288
@@ -1383,13 +1383,13 @@ megnézem, le tudom-e..
 
 292
 00:15:38,765 --> 00:15:40,724
-- Nem része a munkaköri
-leírásomnak, szóval.. - Jogos.
+- Nem szerepel a munkaköri
+leírásomban.. - Jogos.
 
 293
 00:15:40,725 --> 00:15:44,566
-..az eheti lakbér öttel több.
-Vigyázz Juniorra, oké?
+..így az eheti lakbér öttel több.
+Vigyáznál Juniorra?
 
 294
 00:15:47,526 --> 00:15:49,486
@@ -1407,7 +1407,7 @@ A cirógatás és a masszírozás több?
 297
 00:15:55,127 --> 00:15:57,806
 Vagy, tudod, az ütlegelés
-és a lila foltok.
+és a lila foltok?
 
 298
 00:15:58,726 --> 00:16:00,564
@@ -1456,12 +1456,12 @@ Ne add alább.
 
 307
 00:16:20,445 --> 00:16:23,004
-- Miért? - Mert az ülés
+- Miért? - Mert a tárgyalás
 a másik félnél lesz..
 
 308
 00:16:23,005 --> 00:16:25,046
-..ahol gondoskodnak
+..ahol már gondoskodnak
 a másolatokról. Pápá.
 
 309
@@ -1547,7 +1547,7 @@ Vagy... megkapták a legjobbat, és...
 
 327
 00:17:17,606 --> 00:17:20,686
-..mert nem lehet jobb,
+..hisz kizárt, hogy jobb legyen,
 mint Stylaxszel, mi?
 
 328
@@ -1616,7 +1616,7 @@ szeretném én...
 
 341
 00:18:02,406 --> 00:18:05,125
-Nemtom. Asszem
+Passz. Azt hiszem,
 egy orgiára ment.
 
 342
@@ -1626,7 +1626,7 @@ a fejéhez vágta, hogy túl zárkózott.
 
 343
 00:18:18,366 --> 00:18:20,844
-- Kérlek, cimbora.
+- Tedd meg a kedvemért.
 - Ez szörnyű!
 
 344
@@ -1644,7 +1644,7 @@ eltalálni a jó szöget.
 
 347
 00:18:26,405 --> 00:18:29,526
-Na jó. Megteszem,
+Na jó. Megteszem...
 ha nem kell odanéznem.
 
 348
@@ -1664,13 +1664,13 @@ A te ötleted volt.
 
 351
 00:18:39,925 --> 00:18:43,724
-Ott kell lennem megakadályozni,
+Ha nem megyek, nem tudom megakadályozni,
 hogy Cynthia lefeküdjön mással.
 
 352
 00:18:43,725 --> 00:18:46,924
 - Másokkal. - Pontosan, másokkal.
-Akik ráadásul specialisták.
+Akik ráadásul értenek is hozzá.
 
 353
 00:18:46,925 --> 00:18:50,204
@@ -1693,7 +1693,7 @@ női vendég nélkül.
 
 357
 00:18:57,527 --> 00:18:59,606
-Bassza meg a kutya!
+Basszuskulcs!
 
 358
 00:19:01,566 --> 00:19:05,804
@@ -1726,7 +1726,7 @@ hogy nem is a szex miatt jöttünk.
 
 364
 00:19:22,085 --> 00:19:26,446
-- Akkor keressenek egy fogadást. - Hát nem
+- Akkor keressenek egy fogadást. - De nem
 baj, ha szexközelben vagyunk evés közben.
 
 365
@@ -1735,7 +1735,8 @@ Itt is van!
 
 366
 00:19:29,326 --> 00:19:31,806
-Tipp-topp, remélem, tépő.
+Remélem, mindenütt
+tipp-topp, tépő.
 
 367
 00:19:31,807 --> 00:19:34,445
@@ -1753,7 +1754,7 @@ Nem. Ő itt...
 
 370
 00:19:42,446 --> 00:19:44,404
-Hogy ő ki, arra nincs magyarázat.
+Na jó, őrá nincs magyarázat.
 
 371
 00:19:44,405 --> 00:19:47,726
@@ -1826,7 +1827,7 @@ Tépő, gyere már.
 
 386
 00:20:22,406 --> 00:20:24,246
-Ezek tényleg specialisták.
+Ezek tényleg értenek hozzá.
 
 387
 00:20:30,166 --> 00:20:32,886
@@ -1876,11 +1877,11 @@ meg csak nem megy.
 397
 00:20:57,965 --> 00:21:00,326
 Vagy mégis.
-Nyilván vele megy el.
+Láthatóan vele megy.
 
 398
 00:21:03,806 --> 00:21:06,046
-A kurva életbe!
+Mocskos szarházi!
 
 399
 00:21:08,046 --> 00:21:10,485
@@ -1930,44 +1931,4 @@ Nem jön be a ketrechepaj...!
 00:21:53,931 --> 00:22:23,680
 Fordította: Lily Belle
 @bylilybelle
-
-410
-00:22:23,930 --> 00:22:25,430
-
-
-411
-00:22:25,680 --> 00:22:27,180
-
-
-412
-00:22:27,430 --> 00:22:28,930
-
-
-413
-00:22:29,180 --> 00:22:30,680
-
-
-414
-00:22:30,930 --> 00:22:32,430
-
-
-415
-00:22:32,680 --> 00:22:34,180
-
-
-416
-00:22:34,430 --> 00:22:35,930
-
-
-417
-00:22:36,180 --> 00:22:37,680
-
-
-418
-00:22:37,930 --> 00:22:39,430
-
-
-419
-00:22:39,680 --> 00:22:41,180
-
 
